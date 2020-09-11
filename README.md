@@ -14,7 +14,8 @@ I'm a automation developer on mission to automate the boring stuff in order to f
 
 ### Tools & Tech Stack
 
-Java, Selenium WebDriver, Apache POI/CommonsIO, Log4j2, Maven, Jenkins, Cucumber, TestNG, JUnit, Extent Reports & Continous Cloud Integration.
+I am interested in talking about Java, Selenium WebDriver, Apache POI/CommonsIO, Log4j2, Maven, Jenkins, Cucumber, TestNG, JUnit, Extent Reports & Continous Cloud Integration. Also, Framework Architecture such as Test Data-Driven Development, Behaviour Driven Development & Hybrid Development and Software Test Engineering ♥️  |
+
 
   ---
 ### Boy Scout Rule
@@ -27,10 +28,6 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I automate things with **Selenium WebDriver** using **Java** and **Maven**.
-
----
-
-I am interested in talking about Selenium, Java, Maven, Jenkins, Test Data-Driven Development, Behaviour Driven Development & Hybrid Development and Software Test Engineering ♥️  |
 
 ---
 
