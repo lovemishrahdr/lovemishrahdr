@@ -25,7 +25,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 ---
 
-I am interested in and talking about Selenium, Java, Maven, Jenkins, Test Data-Driven Development and Software Engineering ♥️ |
+I am interested in and talking about Selenium, Java, Maven, Jenkins, Test Data-Driven Development, Behaviour Driven Development & Hybrid Development  and Software Test Engineering ♥️  |
 
 ---
 
