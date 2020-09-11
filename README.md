@@ -8,8 +8,6 @@
 
 Hey there 👋,
 
-https://img.shields.io/badge/java-1.8-brightgreen
-
 I'm a automation developer on mission to automate the boring stuff in order to focus on super productive stuff. I have a passion for learning and sharing my knowledge with others a public as possible. If you found value in something I have created, please give me a shout out [@lovemishrahdr](https://twitter.com/lovemishrahdr), give some ♥ on [https://dev.to/lovemishrahdr](https://dev.to/lovemishrahdr)
  
   ---
@@ -23,7 +21,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 ### My Digital Garden 🌱
 
 
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I automate things with **selenium** using **Java** and **Maven**.
+I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I automate things with **Selenium WebDriver** using **Java** and **Maven**.
 
 ---
 
