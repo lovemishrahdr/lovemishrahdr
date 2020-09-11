@@ -8,6 +8,8 @@
 
 Hey there 👋,
 
+https://img.shields.io/badge/java-1.8-brightgreen
+
 I'm a automation developer on mission to automate the boring stuff in order to focus on super productive stuff. I have a passion for learning and sharing my knowledge with others a public as possible. If you found value in something I have created, please give me a shout out [@lovemishrahdr](https://twitter.com/lovemishrahdr), give some ♥ on [https://dev.to/lovemishrahdr](https://dev.to/lovemishrahdr)
  
   ---
@@ -26,3 +28,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 ---
 
 I am interested in and talking about Selenium, Java, Maven, Jenkins, Test Data-Driven Development and Software Engineering ♥️ |
+
+---
+
+![Love's Github Stats](https://github-readme-stats.vercel.app/api?username=lovemishrahdr&show_icons=true&theme=highcontrast)
