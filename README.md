@@ -1,4 +1,8 @@
 # [![Love Mishra Header](https://i.imgur.com/tHKwIsn.jpg)](https://github.com/lovemishrahdr)
+
+<a href="https://gifyu.com/image/6qWg"><img src="https://s1.gifyu.com/images/Black-and-Pink-Glitch-Gaming-Facebook-Cover.gif" alt="Black-and-Pink-Glitch-Gaming-Facebook-Cover.gif" border="0" /></a>
+
+
 <p align='center'>
 <a href="https://dev.to/lovemishrahdr"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Love Mishra's DEV Profile" height="30" width="30"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/lovemishraa/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
