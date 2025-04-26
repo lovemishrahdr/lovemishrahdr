@@ -8,7 +8,7 @@
 
 Hey there 👋,
 
-I'm a automation developer on mission to automate the boring stuff in order to focus on super productive stuff. I have a passion for learning and sharing my knowledge with others a public as possible. If you found value in something I have created, please give me a shout out [@lovemishrahdr](https://twitter.com/lovemishrahdr), give some ♥ on [https://dev.to/lovemishrahdr](https://dev.to/lovemishrahdr)
+I'm an automation developer on a mission to automate the boring stuff to focus on super productive stuff. I am passionate about learning and sharing my knowledge with others as widely as possible. If you found value in something I have created, please give me a shout out [@lovemishrahdr](https://twitter.com/lovemishrahdr), give some ♥ on [https://dev.to/lovemishrahdr](https://dev.to/lovemishrahdr)
  
   ---
 
