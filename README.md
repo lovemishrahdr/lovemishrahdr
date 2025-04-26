@@ -1,7 +1,7 @@
 # [![Love Mishra Header](https://cdn.bap-software.net/2023/09/automationtest1.jpg)](https://github.com/lovemishrahdr)
 
 <p align='center'>
-<a href="https://dev.to/lovemishrahdr"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Love Mishra's DEV Profile" height="30" width="30"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/lovemishraa/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100002550683784"><img height="30" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/love-mishra/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
